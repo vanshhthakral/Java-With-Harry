@@ -13,18 +13,17 @@ These notes and code files follow the [CodeWithHarry - Java Tutorial Series](htt
 
 The repository is organized topic-wise for easy reference:
 
-| Week | Topic | Description |
-|------|-------|-------------|
-| 1 | Basics of Java | Installation, Hello World, Variables, Data Types |
-| 2 | Operators & Expressions | Arithmetic, Logical, Bitwise, Assignment |
-| 3 | Control Structures | if-else, switch, loops (for, while, do-while) |
-| 4 | Functions & Methods | Method overloading, Recursion |
-| 5 | Arrays & Strings | Single/Multi-dimensional arrays, String handling |
-| 6 | Object-Oriented Programming | Classes, Objects, Inheritance, Polymorphism |
-| 7 | Exception Handling | try-catch, finally, custom exceptions |
-| 8 | Packages & Access Modifiers | Package structure, `public`, `private`, etc. |
-| 9 | File Handling | Reading/writing files in Java |
-| 10 | GUI Basics (optional) | Swing, AWT for simple UIs |
+| Folder   | Topic                             | Description                                           |
+| -------- | --------------------------------- | ----------------------------------------------------- |
+| Chapter1 | Introduction & Basics             | Getting started with Java, basic syntax, and setup.   |
+| Chapter2 | Operators                         | Understanding arithmetic, logical, and bitwise ops.   |
+| Chapter3 | Strings                           | String handling, methods, and common string tasks.    |
+| Chapter4 | Conditionals                      | if, else, switch-case statements for decision making. |
+| Chapter5 | Loops                             | Looping with `for`, `while`, and `do-while`.          |
+| Chapter6 | Arrays                            | Single and multidimensional arrays and operations.    |
+| Chapter7 | Methods and Recursion             | Creating methods, overloading, and using recursion.   |
+| Chapter8 | Object Oriented Programming (OOP) | Classes, objects, inheritance, encapsulation, etc.    |
+| Chapter9 | Constructors                      | Types of constructors and their use in OOP.           |
 
 ---
 
